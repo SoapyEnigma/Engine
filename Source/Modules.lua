@@ -17,6 +17,7 @@ local modules =
     "Meta/Meta.lua",
     "Network/Network.lua",
     "Input/Input.lua",
+    "Audio/Audio.lua",
     "Gameplay/Gameplay.lua",
     "ShaderCooker/ShaderCooker.lua",
     "Renderer/Renderer.lua",

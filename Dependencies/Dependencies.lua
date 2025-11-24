@@ -29,6 +29,7 @@ local dependencies =
     "msdfgen/msdfgen.lua",
     "msdf-atlas-gen/msdf-atlas-gen.lua",
     "rtree/rtree.lua",
+    "miniaudio/miniaudio.lua",
 }
 
 for k,v in pairs(dependencies) do
